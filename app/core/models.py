@@ -1,4 +1,3 @@
-from django.db import models #noqa
+# models.py
 
-
-  # Create your models here.
+# Create your models here.
